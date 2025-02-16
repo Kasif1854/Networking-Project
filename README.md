@@ -1,4 +1,4 @@
-# Networking-Project
+# Basic Networking-Project
 Computer Networking Project - Multi-user Online Quiz System, developed in C language based on TCP protocol, including development of one Main Server, three Sub-servers and unlimited clients.
 
 ***Before Compiling this code, Please read the Description file carefully that is attached!!!!***
